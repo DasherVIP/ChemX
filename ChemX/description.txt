@@ -1,0 +1,10 @@
+ChemX adds multiple Potions, narcotics and miscellanious consumables that all have something to do with alchemy.
+I do not have playtesters so please report bugs, or possible balance changes in the discord server!
+
+Contributors: 
+Kranot, sprited 8 unique narcotics. (Some currently unobtainable)
+Rebmiami, sprited the Lapis Pill.
+Thank you for your contributions!
+
+ChemX discord server:https://discord.gg/xAQsfEZ
+Forum page: https://forums.terraria.org/index.php?threads/chemx-%E2%94%82extra-potions-buffs-and-consumables.95641/
